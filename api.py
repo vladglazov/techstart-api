@@ -6,3 +6,7 @@ def get_version():
 
 def get_location():
     return "here"
+
+def get_time():
+    return "today"
+
